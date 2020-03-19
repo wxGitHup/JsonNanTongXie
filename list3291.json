@@ -1,0 +1,780 @@
+{
+    "code" : "success",
+    "data" :     {
+        "endRow" : 8,
+        "hasNextPage" : 0,
+        "hasPreviousPage" : 0,
+        "isFirstPage" : 1,
+        "isLastPage" : 1,
+        "navigateFirstPage" : 1,
+        "navigateLastPage" : 1,
+        "navigatePages" : 8,
+        "navigatepageNums" : 1,
+        "nextPage" : 0,
+        "pageNum" : 1,
+        "pageSize" : 10,
+        "pages" : 1,
+        "prePage" : 0,
+        "size" : 8,
+        "startRow" : 1,
+        "total" : 8,
+        "list" :         [
+            {
+                "id": 3291,
+                "name": "探路者防晒衣男超薄透气防紫外线外套轻薄款户外衫皮肤风衣钓鱼服",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i2/17745880/O1CN017Qm9Hn1tJ5SGOWUzj_!!0-saturn_solar.jpg_360x360Q90.jpg_.webp",
+                "price": "369.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN019SmeaP1nby5Vx6ZU4_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN011POiK01nby5O04MPE_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01N7UuOV1nby5KTdJYV_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01lS3Cfk1nby5JWpe3r_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01POjvZs1nby5OcKpDW_!!414285109.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01TWIHs81nby5N3KDrj_!!414285109.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01Zcoka41nby5SA17Fd_!!414285109.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01GMnewP1nby5O0pKFb_!!414285109.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01QqeAqv1nby5QI1aXB_!!414285109.png"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01oNvLj31nby5O0p3cn_!!414285109.png"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01j8MfTC1nby5RXh9rq_!!414285109.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01N5Mnlr1nby5QgH4xN_!!414285109.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01TsV7xZ1nby5RXgUGn_!!414285109.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01PyXynW1nby5O0pf29_!!414285109.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01hfcdk81nby5SA1mqr_!!414285109.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01G4XsUU1nby5UMwPFu_!!414285109.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01XAEe1z1nby5RXfLdA_!!414285109.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01zc6qIq1nby5QI0z6y_!!414285109.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN017mqqf01nby5RXgYRP_!!414285109.png"
+                    }
+                ]
+            },
+            {
+                "id": 3292,
+                "name": "探路者户外软壳冲锋衣男防风外套女运动弹力抓绒加厚保暖秋冬薄款",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/414285109/O1CN01B9XmCy1nby5Zrb8v9_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "259.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01B9XmCy1nby5Zrb8v9_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01B2sE4I1nby2qJ8Gy9_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01W06sxY1nby2zAwbBf_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01j3YpfK1nby3I1Z4Az_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01TJX5S11nby2xPYs8V_!!414285109.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN015uopgJ1nby3U1cb5R_!!414285109.png"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01NZ0edt1nby3U1eTTB_!!414285109.png"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01UIt55E1nby3USGZlE_!!414285109.png"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN011DZSAg1nby3MizfM6_!!414285109.png"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01XApuZd1nby3Veemmr_!!414285109.png"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN012Gfihf1nby3XZ6d6x_!!414285109.png"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01Jtt7SW1nby3XzAxfO_!!414285109.png"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01oIfT0d1nby3VqyJA6_!!414285109.png"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01aMlR0h1nby3Mj14gQ_!!414285109.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN0180fso51nby3USQyzB_!!414285109.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN018GsUha1nby3VeqfOj_!!414285109.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01LnfeML1nby3URjTsv_!!414285109.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01MiwWj41nby3USUo0M_!!414285109.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01cMiOib1nby3SRtlvr_!!414285109.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01xv8cXE1nby3TjyQuC_!!414285109.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01Qqz4eJ1nby3WaYGlB_!!414285109.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN012w1q0H1nby3USUo1F_!!414285109.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01xynwrj1nby3XzLyMH_!!414285109.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01WoXXha1nby4J2g1pO_!!414285109.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01llcIxb1nby4J1CrgJ_!!414285109.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN018jolf51nby4Lp6fHs_!!414285109.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 3293,
+                "name": "探路者户外防飞沫喷溅渔夫帽面罩防扬尘透气防晒挡风运动防护装备",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/414285109/O1CN01pYeK5Z1nby5U7JXeW_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "89.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01pYeK5Z1nby5U7JXeW_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01HaMT6q1nby5Hl3WCy_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01svlf9M1nby5KhbvjH_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01CIsdEY1nby5MHj36N_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01VRJGYs1nby5GN14Ie_!!414285109.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01g9swdt1nby5WI8oKj_!!414285109.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01hgqpwg1nby5WI8oKg_!!414285109.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01RuzzFc1nby5UPX9U4_!!414285109.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01EY2vrr1nby5WI8PNl_!!414285109.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01vnC4O31nby5MUm1k0_!!414285109.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN013oOOag1nby5ST6rpl_!!414285109.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01R7GBIk1nby5UPVLER_!!414285109.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01QRLKUm1nby5WI9Pk9_!!414285109.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 3294,
+                "name": "探路者防滑透气户外运动鞋20春夏新款透气排水防滑百搭女式溯溪鞋",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/414285109/O1CN01vTXY6H1nby5YHgqLC_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "449.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01vTXY6H1nby5YHgqLC_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01dkc3Xe1nby5EstTbc_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01DDMcvV1nby5JKnkg0_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01YU5kHm1nby5GCaIz2_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01CWMx1R1nby5JxMg9t_!!414285109.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01C2jJvc1nby5TivRlq_!!414285109.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01DznnpA1nby5SilzgA_!!414285109.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01ieDbr51nby5QgQ4ES_!!414285109.png"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01Ozjk3u1nby5NbLJVd_!!414285109.png"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN016wcnrX1nby5TiuNJi_!!414285109.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01Cnog8t1nby5Ou9xrD_!!414285109.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01FoQqbG1nby5REfbNu_!!414285109.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN017bJuKm1nby5QOD8AM_!!414285109.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01AAOnXz1nby5Iw93tU_!!414285109.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN017ttLmn1nby5RBmcMb_!!414285109.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01mB1f9z1nby5UGiBEh_!!414285109.png"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN0104ucWi1nby5QODnkq_!!414285109.png"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01GlFY5S1nby5TitR64_!!414285109.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01nuDV9L1nby5S67IGO_!!414285109.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 3295,
+                "name": "探路者户外可拆卸防飞沫喷溅渔夫帽面罩防扬尘透气防晒防护装备",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/414285109/O1CN01XOxvUt1nby5OULCJo_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "129.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/414285109/O1CN01XOxvUt1nby5OULCJo_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN014FUbMu1nby5K5DA95_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01q489n01nby5NebDCN_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01pFUXUI1nby5NeZOxN_!!414285109.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01vuTE6h1nby5QAJ9lG_!!414285109.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01B9BPP21nby5WWON0X_!!414285109.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01EnelhO1nby5XItJwk_!!414285109.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01EttXf41nby5WWNhQt_!!414285109.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01WbCoi51nby5Ul3zn3_!!414285109.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN018iLqyb1nby5UFmHJ4_!!414285109.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01TdmbTW1nby5YWP0te_!!414285109.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/414285109/O1CN01hvOabA1nby5RAhWk0_!!414285109.png"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/414285109/O1CN01JDiKF91nby5Ul3G5c_!!414285109.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/414285109/O1CN01i6ajAb1nby5RAgipa_!!414285109.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 3296,
+                "name": "探路者外套男2020夏季新款户外防风衣连帽加绒软壳夹克TAEH91905",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/772352677/O1CN01SwpONS1Ve6r2Q2DWI_!!772352677-0-pixelsss.jpg_360x360Q90.jpg_.webp",
+                "price": "259.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/772352677/O1CN01SwpONS1Ve6r2Q2DWI_!!772352677-0-pixelsss.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/772352677/O1CN01MLAkR61Ve6qj8d57U_!!772352677.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/772352677/O1CN01MTMeM51Ve6qv1Wd3R_!!772352677.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/772352677/O1CN01p2YT6Q1Ve6qvSaeqy_!!772352677.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/772352677/O1CN01vGUUyf1Ve6qqcOLoV_!!772352677.png_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/772352677/O1CN010MXiV01Ve6qr1wzAl_!!772352677.png"
+                    }
+                ]
+            },
+            {
+                "id": 3297,
+                "name": "探路者软壳冲锋衣男女2019秋冬季户外潮牌运动防风防水抓绒衣外套",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/1696192081/O1CN01qWYKYD1RF8nkbJGi2-1696192081.jpg_360x360Q90.jpg_.webp",
+                "price": "269.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01qWYKYD1RF8nkbJGi2-1696192081.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01M6ImeB1RF8nJaAF6D_!!1696192081.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN01JzzDYM1RF8nKQIdUp_!!1696192081.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN01QIvXXq1RF8nhM3tUH_!!1696192081.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01nxhxaz1RF8lZ1EBRO_!!1696192081.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN011RF8f0d5lOztMqs_!!1696192081.png"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN01ABVhxj1RF8ma00LDr_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01oUvqvf1RF8mcShW1V_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01xMeqK51RF8mYAHwDD_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN01E8B4p81RF8mVGPkyY_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN01llnsAr1RF8mgHKlUT_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN01MTTQXC1RF8mYcviii_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01Z2ytfL1RF8mc9Tou3_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01sLchXv1RF8md7qQt6_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01bxgw7J1RF8mZQoCQc_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01wQzPDX1RF8niOSZ0P_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN01zfjoyE1RF8mZQn7ta_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01On6YvA1RF8maEwf9g_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN01dSOZXo1RF8mbWmco7_!!1696192081.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 3298,
+                "name": "探路者外套女2019秋冬新款摇粒绒户外防风防水保暖抓绒软壳冲锋衣",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/1993730769/O1CN01D2yMiz1HYF8mOsuNE_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "259.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/1993730769/O1CN01D2yMiz1HYF8mOsuNE_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN015Vew4S1HYF8pEsDXC_!!1993730769.jpeg_60x60q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/1993730769/O1CN01l4vELH1HYF8rppUj4_!!1993730769.jpeg_60x60q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/1993730769/O1CN01kOGkhB1HYF8lASxaE_!!1993730769.jpeg_60x60q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/1993730769/O1CN01Voqe2j1HYF8m9V3fd_!!1993730769.png_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN01q5YX4U1HYF8m9UzZP_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN01s4jDZA1HYF8pEuy5C_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/1993730769/O1CN01g2qu6O1HYF8q1FaL7_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN01xu19n91HYF8oVvKMP_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/1993730769/O1CN01QhZYsD1HYF8pq3TtW_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/1993730769/O1CN01jConu61HYF8oVyDBb_!!1993730769.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 3299,
+                "name": "探路者外套女2020春季新款摇粒绒户外防泼水保暖抓绒软壳冲锋衣",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/1993730769/O1CN01etSjk71HYF8FSNSoB_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "259.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN01etSjk71HYF8FSNSoB_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/1993730769/O1CN01AoaDZu1HYF7lsJ1Tk_!!1993730769.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN01pyLIP41HYF7owwsMe_!!1993730769.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN01XSUPAI1HYF7lyIQOD_!!1993730769.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/1993730769/O1CN01KgXYll1HYF82NIdp9_!!1993730769.png_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/1993730769/TB2j6sjXIgd61BjSZFpXXcaSVXa_!!1993730769.png"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/1993730769/O1CN01wPNqqu1HYF7xik62y_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN01W3S7lf1HYF7ftNjXk_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/1993730769/O1CN01Wz2iwW1HYF7lPNyZ2_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/1993730769/O1CN01lbK78f1HYF7hdKAmM_!!1993730769.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/1993730769/O1CN01Xf58We1HYF7k0fZtI_!!1993730769.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 3300,
+                "name": "探路者溯溪鞋男涉水鞋夏季户外透气徒步鞋两栖朔溪鞋速干钓鱼鞋女",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/1696192081/O1CN012werKK1RF8niZPGu0-1696192081.jpg_360x360Q90.jpg_.webp",
+                "price": "229.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN012werKK1RF8niZPGu0-1696192081.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN017dwZaq1RF8kfFhRdI_!!1696192081.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN01JomqNJ1RF8kcNG0Qh_!!1696192081.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN01akdZZ71RF8khwPJmJ_!!1696192081.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/1696192081/O1CN017Y4K351RF8kWF8Lch_!!1696192081.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01MbpxBz1RF8jydkOQH_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN015zon6G1RF8k96GpQP_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN0123H9qi1RF8kGgrpWD_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01ZpxXJy1RF8k4Ohr1A_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01UAfOVf1RF8k43WEWr_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01PZkTh81RF8k73UA7a_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN01bQerAx1RF8k8LQAWC_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01OyzQ0A1RF8kBf79A0_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN01HSBXut1RF8kCpqVcO_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01aWuCE01RF8kBx3AG0_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01d2tRUI1RF8kD4qBdf_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01ZmbNW71RF8kEPAYuH_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01Muf0K01RF8k1I2YXQ_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01C5YjLF1RF8kEPmE08_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01cBbZPt1RF8k4bAcjG_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i1/1696192081/O1CN01xlyV2s1RF8kEPlgkJ_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01ppnitq1RF8kEPmUgK_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN01KXwRKC1RF8kBJIJld_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN01smxzqL1RF8kAOGmXY_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i4/1696192081/O1CN0191DYuW1RF8k6gvTtK_!!1696192081.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i3/1696192081/O1CN01IctsH21RF8k8i6qGN_!!1696192081.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}
